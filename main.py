@@ -11,6 +11,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 # Load the dataset (make sure the file path is correct)
 df = pd.read_csv('heart.csv')
 
+
 # Display the first few rows of the dataset
 df.head()
 
