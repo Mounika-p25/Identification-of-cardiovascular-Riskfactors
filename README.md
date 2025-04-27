@@ -1,0 +1,1 @@
+This project focuses on identifying key cardiovascular risk factors using machine learning techniques. By analyzing a heart disease dataset, we train and evaluate a Random Forest Classifier to predict the likelihood of heart disease in individuals based on various clinical attributes.
